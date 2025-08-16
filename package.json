@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.1",
+    "@radix-ui/react-label": "^2.1.7",
     "@tailwindcss/vite": "^4.1.11",
     "@tanstack/react-router": "^1.131.5",
     "@tanstack/react-router-devtools": "^1.131.5",

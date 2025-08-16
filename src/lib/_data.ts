@@ -5,11 +5,13 @@ export const SignInFormFields: SignInFormFieldProps[] = [
   {
     fieldName: "email",
     fieldType: "email",
-    fieldPlaceholder: "E-mail"
+    fieldPlaceholder: "Email",
+    fieldLabel: "Email"
   },
   {
     fieldName: "password",
     fieldType: "password",
-    fieldPlaceholder: "Password"
+    fieldPlaceholder: "Password",
+    fieldLabel: "Password"
   }
 ]
