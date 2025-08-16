@@ -3,8 +3,12 @@
 
 @custom-variant dark (&:is(.dark *));
 
-.root {
+#root,
+body,
+html {
   isolation: isolate;
+  height: 100%;
+  width: 100%;
 }
 
 @theme inline {

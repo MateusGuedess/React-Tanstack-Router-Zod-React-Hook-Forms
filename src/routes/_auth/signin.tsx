@@ -6,7 +6,7 @@ export const Route = createFileRoute('/_auth/signin')({
 })
 
 function Signin() {
-  return <div>
+  return <div className="w-full h-full flex justify-center items-center">
     <SignupForm />
   </div>
 }
